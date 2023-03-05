@@ -1,4 +1,4 @@
-﻿class JustForFun
+﻿class ExchangeRate
 {
     static void Main(string[] args)
     {
