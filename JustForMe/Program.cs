@@ -31,7 +31,7 @@
         }
         else
         {
-            Console.WriteLine("You did not enter a valid region!");
+            Console.WriteLine("We don't exchange in this currency!");
         }
     }
 
